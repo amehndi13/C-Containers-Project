@@ -1,0 +1,8 @@
+EN.600.120 4.0 Intermmediate Programming
+EN.600.233 3.0 CSF
+AS.200.654 3.0 Intro Computing
+ME.100.999 2.5 Linear Algebra
+SA.222.111 5.0 Algorithms
+EN.111.222 3.0 Probability
+AS.943.578 3.0 Stat
+ME.328.583 2.5 Expos
